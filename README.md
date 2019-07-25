@@ -11,9 +11,13 @@ My services include administering to underlying contractual obligations that req
 This risk exists with all Infrastructure-as-a-Service providers (remember Nirvanix?), Platform-as-a-Service Providers, Software-as-a-Service Providers or other Managed Service Providers that are hired to perform a service, but are unable for whatever reason. Identifying the potential risk will also help determine the triggering conditions to set your Contingency Plan in motion.  
 
 Knows how to create partnerships with System Integrators, Value Added Resellers, Platform-as-a-Service Providers, OEM ISV's and other Managed Service Providers to use Contingency Plans as a part of their Product Management/P)roduct Marketing. Used to instill trust and overcome the risk objection to doing business with small unknown risky Developers. 
+
 Let me create and administer to your Contingency Plans
+
 Personally, I am no coder! I know business process, I know UI/UX, I know Risk, but don't intimidate me with HTML.
+
 I am also a dad to a five year old, ten year old, sixteen year old, twenty-three year old and a twenty-five year old.  I know how to nurture and negotiate reasonably. 
+
 This is why you should trust me.
 
 ### Are you a Developer looking for funding or trying to close a deal?
@@ -24,7 +28,7 @@ If you are a Developer trying to close a deal, then having a fully baked, purpos
 
 If you are a Technology User trying to close a deal, then having a fully baked, purpose driven contingency plan for your risk managers and finance stakeholders should instill trust. You need trust and a fully documented DR/BC plan that includes unfettered access to your data.
 ```markdown
-Ironically, these needs are identical, so why not create a win/win
+Ironically, these needs are identical, so why not create a win/win by using someong who...
 
 # Knows how to broker new partnerships
   NDAs
@@ -34,7 +38,7 @@ Ironically, these needs are identical, so why not create a win/win
 
 Generate revenue through partnerships with System Integrators, Value Added Resellers, Platform-as-a-Service Providers, OEM ISV's and other Managed Service Providers who can generate additional revenue with you. Use Contingency Plans as a part of their Product Management/Product Marketing. Used to instill trust and to overcome the risk objection to doing business with small unknown risky Developers. 
   
-## Crafting the right Contingency Plan
+## Crafts the right Contingency Plan
   Requirements gathering
   Triggering Conditions defined
   Operational Supportability - Deposit Materials defined
@@ -43,17 +47,19 @@ Generate revenue through partnerships with System Integrators, Value Added Resel
   
 Protect investments in mission critical technology, defined as any application that has an API call to a database containing proprietary and mission critical data. Satisfy risk managers with a well defined Contingency Plan that can be executed to keep your company and its users safe from catastrophic outages and other bad things. This risk exists with all Infrastructure-as-a-Service providers (remember Nirvanix?), Platform-as-a-Service Providers, Software-as-a-Service Providers or other Managed Service Providers that are hired to perform a service, but are unable for whatever reason. Identifying the potential risk will also help determine the triggering conditions as well as the requisite skillsets, runbooks, code and other documentation repositories that need to be harvested to keep the Contingency Plan fresh. Then you need someone to keep an eye on things to test it and make sure its ready when you need it most. 
 
-### Administering to your Contingency Plan
+### Administers to your Contingency Plan
 - Developers retain a Designated Third Party to audit their plans and report on their compliance with all contractual obligations.
 
 - Technology Users have a need to coordinate risk management across a wide variety of deployed technology (On-premises connected to PaaS in the Cloud). Ensuring the means to quickly recover data as well as to execute on the Contingency Plan needs to be tested frequently to ensure workability
 
-1. Numbered
-2. List
+1. Is it all there?
+2. Does it all work?
 
-**Bold** and _Italic_ and `Code` text
+**TRUST** and _but verify_ is a `Code` for Best Practice
 
-[Link](url) and ![Image](src)
+[https://www.linkedin.com/in/frankabruno/](LinkedIn url)
++1(303)717-1031
+frank.a.bruno@gmail.com
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
