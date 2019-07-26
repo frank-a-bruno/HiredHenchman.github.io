@@ -19,7 +19,7 @@ Personally, I am no coder! I know business process, I know UI/UX, I know Risk, b
 I am also a dad to a five year old, ten year old, sixteen year old, twenty-three year old and a twenty-five year old.  I know how to nurture and negotiate reasonably. 
 
 Reach out to me by...
-email:  frank.a.bruno@gmail.com
+email:  frank.a.bruno@gmail.com or 
 cell: +1(303)717-1031
 
 ### Are you a Developer looking for funding or trying to close a deal?
