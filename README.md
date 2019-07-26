@@ -32,11 +32,11 @@ If you are a Technology User trying to close a deal, then having a fully baked, 
 ```markdown
 Ironically, these needs are identical, so why not create a win/win by using someong who...
 
-# Knows how to broker new partnerships
+# Knows how to broker new partnerships and promote the ecosystem
   NDAs
   Discovery
-  Proposal
-  Agreement
+  Proposals
+  Agreements
 
 Generate revenue through partnerships with
 -System Integrators
@@ -47,7 +47,7 @@ Generate revenue through partnerships with
 +Use Contingency Plans as a part of their Product Management/Marketing strategy.
 +Instill trust to overcome the risk objection to doing business. 
   
-## Crafts the right Contingency Plan
+## Crafts the right Contingency Plan 
   Requirements gathering
   Triggering Conditions defined
   Operational Supportability - Deposit Materials defined
@@ -76,19 +76,10 @@ Technology Users have a need to coordinate risk management across a wide variety
 1. Is it all there?
 2. Does it all work?
 
-**TRUST** and _but verify_ is a `Code` for Best Practice
+**TRUST** and _but verify_ is a `Code` for Best Practice Results!
 
 https://www.linkedin.com/in/frankabruno/ 
 +1(303)717-1031
 frank.a.bruno@gmail.com
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/frank-a-bruno/Works-on-Record.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
