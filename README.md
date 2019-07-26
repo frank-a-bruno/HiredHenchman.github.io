@@ -10,7 +10,7 @@ My services include administering to underlying contractual obligations that req
 
 This risk exists with all Infrastructure-as-a-Service providers (remember Nirvanix?), Platform-as-a-Service Providers, Software-as-a-Service Providers or other Managed Service Providers that are hired to perform a service, but are unable for whatever reason. Identifying the potential risk will also help determine the triggering conditions to set your Contingency Plan in motion.  
 
-Knows how to create partnerships with System Integrators, Value Added Resellers, Platform-as-a-Service Providers, OEM ISV's and other Managed Service Providers to use Contingency Plans as a part of their Product Management/P)roduct Marketing. Used to instill trust and overcome the risk objection to doing business with small unknown risky Developers. 
+Work with someone who knows how to create partnerships with System Integrators, Value Added Resellers, Platform-as-a-Service Providers, OEM ISV's and other Managed Service Providers to use Contingency Plans as a part of their Product Management/Product Marketing strategy. Use the Contingency Plan to instill trust and overcome the risk objection to doing business with small unknown risky Developers. 
 
 Let me create and administer to your Contingency Plans
 
